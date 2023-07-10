@@ -1,0 +1,30 @@
+/* Homepage */
+  .card-img-top {
+    height: 200px; 
+    width: 212px;
+    object-fit: cover;
+  }
+
+  .login {
+    margin-top: 50px;
+  }
+
+  .register{
+    margin-top: 15px;
+  }
+
+
+  /* Profile page */
+
+  .welcome {
+    text-align: center;
+  }
+
+  .user-img {
+    height: 200px; 
+    width: 212px;
+  }
+
+  .student-logged {
+    margin-bottom: 40px;
+  }
